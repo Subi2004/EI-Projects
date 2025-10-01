@@ -1,0 +1,20 @@
+Oct 01, 2025 6:01:01 PM main.AppMain main
+SEVERE: Error running demo
+java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:964)
+	at java.base/java.util.Scanner.next(Scanner.java:1619)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2284)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2238)
+	at structural.decorator.DecoratorDemo.runDemo(DecoratorDemo.java:18)
+	at main.AppMain.main(AppMain.java:78)
+
+Oct 01, 2025 6:01:18 PM main.AppMain main
+SEVERE: Error running demo
+java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:964)
+	at java.base/java.util.Scanner.next(Scanner.java:1619)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2284)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2238)
+	at structural.decorator.DecoratorDemo.runDemo(DecoratorDemo.java:18)
+	at main.AppMain.main(AppMain.java:78)
+
